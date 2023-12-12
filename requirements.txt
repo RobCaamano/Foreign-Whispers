@@ -1,0 +1,12 @@
+gradio
+pyannote.audio
+pydub
+torch
+transformers
+tqdm
+moviepy
+srt
+ffmpeg-python
+TTS
+openai-whisper
+pytube
