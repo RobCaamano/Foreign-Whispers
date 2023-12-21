@@ -13,7 +13,7 @@ def run_pipeline(youtube_url):
 with gr.Blocks() as demo:
     gr.Markdown(
         """
-           # Convert YouTube video to speech and writen subtitles in Spanish.
+           # Convert YouTube video to speech and writen subtitles in Spanish, cloning speaker's voices.
            ## Note: This code is optimized for GPU. Online use is slow due to CPU. Recommended local usage.
         """,
         elem_id="header",
