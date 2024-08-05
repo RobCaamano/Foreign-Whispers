@@ -39,7 +39,7 @@ pip install -r requirements.txt
 6. Run the script in your virtual environment
 
 ```
-python ./main.py
+python ./main.py "[url]"
 ```
 
 ## Huggingface Space <a id="space"></a>
