@@ -11,6 +11,11 @@
 
 Takes a video as input and outputs the same video with both spoken and written subtitles in Spanish, replicating each individual voice. Utilizes OpenAI Whisper, Opus NLP, Pyannote and xTTS models.
 
+### Approaches
+
+- Tried
+- Tried
+
 ## Examples <a id="example"></a>
 
 ### Audio Speedup
