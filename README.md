@@ -76,6 +76,6 @@ pip install -r requirements.txt
 python ./main.py "[url]"
 ```
 
-## Huggingface Space <a id="space"></a>
+## Hugging Face Space <a id="space"></a>
 
-[link](https://huggingface.co/spaces/Samin-Rob/FOREIGN-WHISPERS)
+Our [Hugging Face Space](https://huggingface.co/spaces/Samin-Rob/FOREIGN-WHISPERS) provides an accessible interface for experimenting with our models. Please note that this space is configured to run on CPU rather than GPU. For optimal performance and faster processing, we recommend cloning the repository and running the models locally on your own hardware.
