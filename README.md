@@ -9,7 +9,15 @@
 
 ## About <a id="about"></a>
 
-Takes a video as input and outputs the same video with both spoken and written subtitles in Spanish, replicating each individual voice. Utilizes OpenAI Whisper, Opus NLP, Pyannote and xTTS models.
+Foreign Whispers is a tool designed to transform your video content by adding both spoken and written subtitles in Spanish, all while replicating the original voices. This powerful application harnesses cutting-edge AI technologies to provide a seamless and engaging viewing experience for diverse audiences.
+
+- **Youtube Video Download:** Automatically downloads YouTube videos to use as input for subtitle and voice replication, making the process straightforward and efficient.
+
+- **Speaker Diarization:** Leverages speaker diarization technology to accurately identify and separate different speakers in your video, ensuring precise voice replication and subtitle alignment.
+
+- **Voice Cloning and Translation:** Clones voices and translates spoken content into Spanish
+
+- **Video Compliation:** 
 
 ### Approaches
 
@@ -20,6 +28,16 @@ To match the video length, the script speeds up the audio in specific sections. 
 - Frame adding/deleting
 
 To allow the voice playback to play naturally, the script determines time interval differences and triggers markers for additional frames that need to be inserted or removed.
+
+### Issues
+
+- Audio Speed
+
+Adjusting audio speed can result in unnatural sound, making it hard to understand.
+
+- Audio Artifacts
+
+Background noise and model variability can introduce random audio artifacts, affecting the clarity and quality of the output.
 
 ## Examples <a id="example"></a>
 
