@@ -9,4 +9,4 @@ srt
 ffmpeg-python
 TTS
 openai-whisper
-pytube
+pytubefix
