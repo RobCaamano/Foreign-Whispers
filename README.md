@@ -29,7 +29,7 @@ https://github.com/user-attachments/assets/98b8c054-b45d-4fc3-95a3-005702de68f9
 
 ### Audio Speedup + Frame Manipulation
 
-
+https://github.com/user-attachments/assets/a4e57fcd-b4d1-4b4c-af32-236445a444ca
 
 ## How to use: <a id="usage"></a>
 
