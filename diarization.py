@@ -7,8 +7,8 @@ import torch
 def perform_diarization(audio_file_path, translated_file_path, output_dir='./audio/diarization'):
 
     # Initialize diarization pipeline
-    accesstoken = os.environ['Diarization']
-    pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization-3.1", use_auth_token=accesstoken )
+    #accesstoken = os.environ['Diarization']
+    pipeline = Pipeline.from_pretrained("pyannote/speaker-diarization-3.1")
 
     # Send pipeline to GPU (when available)
     pipeline.to(torch.device("cuda" if torch.cuda.is_available() else "cpu"))
