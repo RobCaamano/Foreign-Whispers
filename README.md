@@ -13,8 +13,13 @@ Takes a video as input and outputs the same video with both spoken and written s
 
 ### Approaches
 
-- Tried
-- Tried
+- Audio stetching/shrinking
+
+To match the video length, the script speeds up the audio in specific sections. This approach ensures that the translated speech fits within the given timestamps for each speaker's segment.
+
+- Frame adding/deleting
+
+To allow the voice playback to play naturally, the script determines time interval differences and triggers markers for additional frames that need to be inserted or removed.
 
 ## Examples <a id="example"></a>
 
