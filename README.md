@@ -31,11 +31,6 @@ https://github.com/user-attachments/assets/98b8c054-b45d-4fc3-95a3-005702de68f9
 
 https://github.com/user-attachments/assets/a4e57fcd-b4d1-4b4c-af32-236445a444ca
 
-<a href="https://github.com/user-attachments/assets/a4e57fcd-b4d1-4b4c-af32-236445a444ca" target="_blank">
-  <img src="https://github.com/user-attachments/assets/3f5cb49a-cb3a-428f-b1cb-6dd0de5992d8" alt="Video Thumbnail" style="width:300px;height:200px;">
-</a>
-
-
 ## How to use: <a id="usage"></a>
 
 Before running the script, ensure you have Python installed on your machine. You can download Python from the [official website](https://www.python.org/downloads/). 
