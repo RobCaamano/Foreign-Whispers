@@ -1,5 +1,6 @@
 import argparse
-from pytube import YouTube
+from pytubefix import YouTube
+from pytubefix.cli import on_progress
 from tqdm import tqdm
 import os
 
@@ -20,10 +21,7 @@ def download_youtube_video(video_url, download_captions=False):
         os.makedirs('./downloads')
 
     # Youtube object with inputted url
-    yt = YouTube(
-        video_url,
-        on_progress_callback=progress_function,
-    )
+    yt = YouTube(video_url, on_progress_callback = on_progress)
 
     # Downloading video
     stream = yt.streams.get_highest_resolution()
