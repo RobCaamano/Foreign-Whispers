@@ -1,16 +1,21 @@
 # Foreign-Whispers
 
-Takes a video as input and outputs the same video with both spoken and written subtitles in Spanish, replicating each individual voice. Utilizes OpenAI Whisper, Opus
-NLP, Pyannote and xTTS models.
+## Sections
 
-## Example Output Video
+- [About](#about)
+- [Example Output](#example)
+- [How to Use](#usage)
+- [Hugging Face Space](#space)
+
+## About <a id="about"></a>
+
+Takes a video as input and outputs the same video with both spoken and written subtitles in Spanish, replicating each individual voice. Utilizes OpenAI Whisper, Opus NLP, Pyannote and xTTS models.
+
+## Example Output Video <a id="example"></a>
 
 https://github.com/RobCaamano/Foreign-Whispers/assets/65639885/e373b174-bbe4-4a35-ab07-fac2714fdf64
 
-## Huggingface Space
-[link](https://huggingface.co/spaces/Samin-Rob/FOREIGN-WHISPERS)
-
-## How to use:
+## How to use: <a id="usage"></a>
 
 Before running the script, ensure you have Python installed on your machine. You can download Python from the [official website](https://www.python.org/downloads/). 
 
@@ -36,3 +41,7 @@ pip install -r requirements.txt
 ```
 python ./main.py
 ```
+
+## Huggingface Space <a id="space"></a>
+
+[link](https://huggingface.co/spaces/Samin-Rob/FOREIGN-WHISPERS)
