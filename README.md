@@ -15,9 +15,9 @@ Foreign Whispers is a tool designed to transform your video content by adding bo
 
 - **Speaker Diarization:** Leverages speaker diarization technology to accurately identify and separate different speakers in your video, ensuring precise voice replication and subtitle alignment.
 
-- **Voice Cloning and Translation:** Clones voices and translates spoken content into Spanish
+- **Voice Cloning and Translation:** Clones voices and translates spoken content into Spanish, making your content accessible to Spanish-speaking audiences.
 
-- **Video Compliation:** 
+- **Video Compliation:** Integrates the translated audio and subtitles into the original video. This process ensures that the final output maintains the video’s original flow and visual coherence while incorporating the new language features. The tool manages transitions, synchronization, and overall presentation to deliver a final product.
 
 ### <ins> Approaches </ins>
 
@@ -39,7 +39,7 @@ Adjusting audio speed can result in unnatural sound, making it hard to understan
 
 Background noise and model variability can introduce random audio artifacts, affecting the clarity and quality of the output.
 
-## Examples <a id="example"></a>
+## Example Outputs <a id="example"></a>
 
 ### Audio Speed Manipulation
 
