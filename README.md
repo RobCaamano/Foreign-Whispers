@@ -3,7 +3,7 @@
 ## Sections
 
 - [About](#about)
-- [Example Output](#example)
+- [Example Outputs](#example)
 - [How to Use](#usage)
 - [Hugging Face Space](#space)
 
@@ -11,9 +11,15 @@
 
 Takes a video as input and outputs the same video with both spoken and written subtitles in Spanish, replicating each individual voice. Utilizes OpenAI Whisper, Opus NLP, Pyannote and xTTS models.
 
-## Example Output Video <a id="example"></a>
+## Examples <a id="example"></a>
 
-https://github.com/RobCaamano/Foreign-Whispers/assets/65639885/e373b174-bbe4-4a35-ab07-fac2714fdf64
+### Audio Speedup
+
+https://github.com/user-attachments/assets/98b8c054-b45d-4fc3-95a3-005702de68f9
+
+### Audio Speedup + Frame Manipulation
+
+
 
 ## How to use: <a id="usage"></a>
 
