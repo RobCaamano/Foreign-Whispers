@@ -19,7 +19,7 @@ Foreign Whispers is a tool designed to transform your video content by adding bo
 
 - **Video Compliation:** 
 
-### Approaches
+<ins> ### Approaches </ins>
 
 - Audio stetching/shrinking
 
@@ -29,7 +29,7 @@ To match the video length, the script speeds up the audio in specific sections. 
 
 To allow the voice playback to play naturally, the script determines time interval differences and triggers markers for additional frames that need to be inserted or removed.
 
-### Issues
+<ins> ### Issues </ins>
 
 - Audio Speed
 
