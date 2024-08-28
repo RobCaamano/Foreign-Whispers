@@ -71,7 +71,7 @@ pip install -r requirements.txt
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Note:** The time required for the script to complete depends on the computational power of your GPU.
 
-6. Run the script in your virtual environment, providing the url through command line argument
+4. Run the script in your virtual environment, providing the url through command line argument
 
 ```
 python ./main.py "[url]"
